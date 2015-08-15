@@ -211,7 +211,7 @@ static char TAG_ACTIVITY_SHOW;
 
 @end
 
-
+/*
 @implementation UIImageView (WebCacheDeprecated)
 
 - (NSURL *)imageURL {
@@ -275,3 +275,4 @@ static char TAG_ACTIVITY_SHOW;
 }
 
 @end
+*/
